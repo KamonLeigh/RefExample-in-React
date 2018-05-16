@@ -1,0 +1,18 @@
+.btn {
+    padding: 5px 10px;
+    margin-left: 8px;
+    border-radius: 3px;
+    background-color: orange;
+    color: #fff;
+}
+
+.btn:hover {
+    background-color: orangered;
+}
+
+input[type=text]{
+    border-radius: 2px;
+    border: 1px solid gray;
+    height: 20px;
+    width: 150px;
+}
